@@ -14,9 +14,12 @@
 4. 新垣结衣
 5. 石原里美
 
-学过的编程语言有```HTML``` ```CSS``` ```JavaScript```。我写一段给你瞧瞧吧
-```function f(){
+学过的编程语言有`HTML` `CSS` `JavaScript`。我写一段给你瞧瞧吧
+
+```
+function f(){
   console.log('hello world')
 }
 
-  f()```
+f()
+```
